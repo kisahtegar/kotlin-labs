@@ -3,7 +3,6 @@
     <picture>
       <img alt="Kotlin" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png">
     </picture>
-    <b style="font-size: 10rem; color: #ffffff">Kotlin</b>
   </h1>
 </a>
 
